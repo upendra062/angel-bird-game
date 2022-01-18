@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontSize": 16,
+    "git.enableSmartCommit": true,
+    "code-runner.clearPreviousOutput": true,
+    "editor.snippetSuggestions": "top",
+    "window.zoomLevel": 2,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.ignoreSelection": true,
+    "files.autoSave": "off",
+    "editor.mouseWheelZoom": true,
+    "python.autoComplete.addBrackets": true,
+}
